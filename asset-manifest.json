@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/cats_and_dogs/static/css/main.3ecae14b.chunk.css",
-    "main.js": "/cats_and_dogs/static/js/main.9562a0b5.chunk.js",
-    "main.js.map": "/cats_and_dogs/static/js/main.9562a0b5.chunk.js.map",
+    "main.js": "/cats_and_dogs/static/js/main.9211387b.chunk.js",
+    "main.js.map": "/cats_and_dogs/static/js/main.9211387b.chunk.js.map",
     "runtime-main.js": "/cats_and_dogs/static/js/runtime-main.a59e3e56.js",
     "runtime-main.js.map": "/cats_and_dogs/static/js/runtime-main.a59e3e56.js.map",
     "static/js/2.f2646295.chunk.js": "/cats_and_dogs/static/js/2.f2646295.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.a59e3e56.js",
     "static/js/2.f2646295.chunk.js",
     "static/css/main.3ecae14b.chunk.css",
-    "static/js/main.9562a0b5.chunk.js"
+    "static/js/main.9211387b.chunk.js"
   ]
 }
